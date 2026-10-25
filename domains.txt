@@ -1,31 +1,42 @@
-cdn.jwcmdr.top:2083#SG 01 [电信]
-img.856518.xyz:2083#SG 02 [电信]
-ikankeji.com:8443#SG 03 [电信]
-gh-proxy.com:8443#SG 04 [电信]
-www.5199dy.com:2087#SG 05 [电信]
-chinwa.cf.090227.xyz:443#SG 06 [电信]
-101yaoye.com:2053#SG 07 [电信]
-da.mfa.gov.ua:443#SG 08 [电信]
-www.aneko.ink:2087#SG 09 [电信]
-131.youxuan.cf.090227.xyz:443#SG 10 [电信]
-ct.877774.xyz:2087#JP 01 [电信]
-cf-ip-site.vov.moe:8443#JP 02 [电信]
-edgeone.gh-proxy.org:2053#JP 03 [电信]
-jp.cf.3666888.xyz:2053#JP 04 [电信]
-cf.cf.3666888.xyz:2087#JP 05 [电信]
-china-telecom.cname.cloudflare.468123.xyz:8443#JP 06 [电信]
-hk.cf.3666888.xyz:2087#JP 07 [电信]
-cf.92555.xyz:443#JP 08 [电信]
-cmcc.vvvv.ee:2053#JP 09 [电信]
-cf.130519.xyz:8443#JP 10 [电信]
-cf.468123.xyz:2087#US 01 [电信]
-centerofthewest.org:2053#US 02 [电信]
-www.ntu.edu.sg:2087#US 03 [电信]
-cmcc.cc.cd:8443#US 04 [电信]
-academy.mastercard.com:443#US 05 [电信]
-nrtcfdns.zone.id:443#HK [电信]
-cf.877774.xyz:8443#JP [电信]
-saas.sin.fan:8443#JP [电信]
-mfa.gov.ua:8443#SG [电信]
-sub.mia.xx.kg:443#NL [电信]
-bestcf.030101.xyz:8443#US [电信]
+1.cf.636949.xyz:2087#HK_1
+eteaf.cf.3666888.xyz:8443#HK_2
+www.aneko.ink:2087#HK_3
+qocu.cf.3666888.xyz:8443#HK_4
+sanwang.cf.3666888.xyz:2053#HK_5
+store.ubi.com:8443#HK_6
+op.chinwa.eu.cc:2096#HK_7
+yx.cf.090227.xyz:2096#HK_8
+ddk.cfyx.20237737.xyz:2096#HK_9
+www.chess.com:8443#HK_10
+edgeone.gh-proxy.org:2087#HK_11
+cdn.aneko.ink:2096#HK_12
+isp.qzz.io:2087#HK_13
+fw8je9.cf.3666888.xyz:443#HK_14
+comet57.cf.090227.xyz:2083#HK_15
+cf.3666888.xyz:2053#HK_16
+liz.us.ci:8443#HK_17
+avido.cf.3666888.xyz:2053#HK_18
+1749991941.bilibiliapp.cn:2096#HK_19
+www.akasantech.com:8443#HK_20
+cdn1.jwcmdr.top:2083#JP_1
+cloudflare.468123.xyz:2053#JP_2
+china-telecom.cname.cloudflare.468123.xyz:443#US_1
+yxip.jzyx.sjzhk.top:2096#US_2
+www.blibli.com:2096#US_3
+www.carousell.sg:8443#US_4
+img.856518.xyz:2053#US_5
+midjourney.com:2096#US_6
+bestcf.030101.xyz:443#US_7
+stores.staples.com:8443#US_8
+cfplus.255520.xyz:2053#US_9
+www.udacity.com:2053#US_10
+www.vmware.com:8443#US_11
+china-unicom.cname.cloudflare.468123.xyz:2083#US_12
+m.iyf.tv:8443#US_13
+login.rockwellautomation.com:2083#US_14
+mokeedev.com:443#US_15
+kinsta.com:2053#US_16
+store.ubisoft.com:2096#US_17
+brandstudio.com:443#US_18
+js.org:443#US_19
+cu.hw.090227.xyz:2096#US_20
