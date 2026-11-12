@@ -1,42 +1,30 @@
-1.cf.636949.xyz:2087#HK_1
-eteaf.cf.3666888.xyz:8443#HK_2
-www.aneko.ink:2087#HK_3
-qocu.cf.3666888.xyz:8443#HK_4
-sanwang.cf.3666888.xyz:2053#HK_5
-store.ubi.com:8443#HK_6
-op.chinwa.eu.cc:2096#HK_7
-yx.cf.090227.xyz:2096#HK_8
-ddk.cfyx.20237737.xyz:2096#HK_9
-www.chess.com:8443#HK_10
-edgeone.gh-proxy.org:2087#HK_11
-cdn.aneko.ink:2096#HK_12
-isp.qzz.io:2087#HK_13
-fw8je9.cf.3666888.xyz:443#HK_14
-comet57.cf.090227.xyz:2083#HK_15
-cf.3666888.xyz:2053#HK_16
-liz.us.ci:8443#HK_17
-avido.cf.3666888.xyz:2053#HK_18
-1749991941.bilibiliapp.cn:2096#HK_19
-www.akasantech.com:8443#HK_20
-cdn1.jwcmdr.top:2083#JP_1
-cloudflare.468123.xyz:2053#JP_2
-china-telecom.cname.cloudflare.468123.xyz:443#US_1
-yxip.jzyx.sjzhk.top:2096#US_2
-www.blibli.com:2096#US_3
-www.carousell.sg:8443#US_4
-img.856518.xyz:2053#US_5
-midjourney.com:2096#US_6
-bestcf.030101.xyz:443#US_7
-stores.staples.com:8443#US_8
-cfplus.255520.xyz:2053#US_9
-www.udacity.com:2053#US_10
-www.vmware.com:8443#US_11
-china-unicom.cname.cloudflare.468123.xyz:2083#US_12
-m.iyf.tv:8443#US_13
-login.rockwellautomation.com:2083#US_14
-mokeedev.com:443#US_15
-kinsta.com:2053#US_16
-store.ubisoft.com:2096#US_17
-brandstudio.com:443#US_18
-js.org:443#US_19
-cu.hw.090227.xyz:2096#US_20
+cf.1o.ee:2087#US_1 [联通]
+cdn.aneko.ink:2053#US_2 [联通]
+m.cloudflare.182682.xyz:2083#US_3 [联通]
+cf.xreak.top:8443#DE_1 [联通]
+duggal.com:2053#HK_1 [联通]
+cfyx.aliyun.20237737.xyz:8443#HK_2 [联通]
+dnew.cc:2053#US_4 [联通]
+lt.zhuqq.qzz.io:2053#HK_3 [联通]
+cloudflare-ip.mofashi.ltd:443#US_5 [联通]
+cf.yj250.bond:443#HK_4 [联通]
+cf-ip-site.vov.moe:2083#US_6 [联通]
+kniu.cc:2083#US_7 [联通]
+ping.ctrl.li:8443#US_8 [联通]
+cnllm.com:8443#US_9 [联通]
+resources.biginterview.com:2053#HK_5 [联通]
+cf-ip-node.vov.moe:2087#US_10 [联通]
+cmcc.vvvv.ee:2083#US_11 [联通]
+support.communilink.net:2053#HK_6 [联通]
+cdn.2158.cc:2083#US_12 [联通]
+101yaoye.com:2053#US_13 [联通]
+www.postman.com:2087#HK_7 [联通]
+cdn.jwcmdr.top:443#US_14 [联通]
+cf.cf.636949.xyz:443#US_15 [联通]
+cf2.996616.xyz:2053#US_16 [联通]
+warframe.market:8443#HK_8 [联通]
+best.hzample.kdns.fr:8443#US_17 [联通]
+npmjs.com:2087#US_18 [联通]
+cloudflare.19931110.xyz:443#US_19 [联通]
+cf.cloudflare.182682.xyz:2053#US_20 [联通]
+cfplus.255520.xyz:2096#HK_9 [联通]
